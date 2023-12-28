@@ -14,9 +14,11 @@ For this script to work it needs 2 csv files located in the same directory(folde
   A file named kcpe_can.csv containing the candidates data, 
   this file contains the following columns:
   
-    Index No. : Candidates index number
-    NAME : Candidates names
-    Class : Candidates name
+    -Index No. : Candidates index number.
+    
+    -NAME : Candidates names.
+    
+    -Class : Candidates name.
 
 2: Candidates KCPE results downloaded from the KNEC portal 
 
