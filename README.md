@@ -1,8 +1,7 @@
 # Introduction
 This is a script automating the anual download and processing of K.C.P.E results,
 It was meant for St****** Primary School.
-It was writen in 2020, to be used from 2020 to 2023 until the change of the education system
-In the event of changes in the Governments system changes.
+It was writen in 2020, to be used from 2020 to 2023 until the change of the education system or any government system changes.
 This version of the script is meant for users with knownledge of python, selenium , pandas and numpy.
 
 # Demo
