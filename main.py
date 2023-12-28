@@ -4,7 +4,7 @@ import numpy as np
 
 # Introduction
 # This is a script automating the anual processing of K.C.P.E results,
-# It was ment for State House Primary School 
+# It was ment for *** Primary School 
 # It was writen in 2020, to be used in the years: 2020,2021,2022, 2023 until the change of the education system
 # In the event of changes in the Governments system changes 
 
