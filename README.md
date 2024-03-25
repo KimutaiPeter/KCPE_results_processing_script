@@ -5,7 +5,7 @@ It was writen in 2020, to be used from 2020 to 2023 until the change of the educ
 This version of the script is meant for users with knownledge of python, selenium , pandas and numpy.
 
 # Demo
-Checkout the demo on youtube: <a href='youtube.com'>Link</a>
+Checkout the demo on youtube: <a href='https://www.youtube.com/watch?v=BMaF6AC09z4'>Link</a>
 
 # How it works
 For this script to work it needs 2 csv files located in the same directory(folder as the script): 
